@@ -1,0 +1,5 @@
+{
+  "name": "Agentic Town – A Living AI-Powered World",
+  "description": "A 2D living world simulation where NPCs are autonomous AI agents driven by Gemini. They have thoughts, moods, memories, and change behavior based on a fast-forwarded time cycle.",
+  "requestFramePermissions": []
+}
